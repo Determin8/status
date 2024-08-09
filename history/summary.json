@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 100,
-    "timeWeek": 109,
-    "timeMonth": 108,
+    "timeDay": 68,
+    "timeWeek": 107,
+    "timeMonth": 107,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-01": 36
@@ -29,13 +29,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 284,
-    "timeWeek": 199,
-    "timeMonth": 253,
-    "timeYear": 225,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.99%",
+    "time": 226,
+    "timeDay": 312,
+    "timeWeek": 191,
+    "timeMonth": 236,
+    "timeYear": 226,
+    "dailyMinutesDown": {
+      "2024-05-01": 36
+    }
   },
   {
     "name": "Hacker News",
@@ -47,13 +49,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 288,
+    "uptimeYear": "99.99%",
+    "time": 304,
+    "timeDay": 382,
     "timeWeek": 253,
-    "timeMonth": 283,
-    "timeYear": 303,
-    "dailyMinutesDown": {}
+    "timeMonth": 289,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2024-05-01": 36
+    }
   },
   {
     "name": "Test Broken Site",
@@ -65,13 +69,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 36
+    }
   },
   {
     "name": "IPv6 test",
@@ -79,16 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-pv6-test",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-01": 36
+    }
   }
 ]
